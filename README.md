@@ -26,4 +26,4 @@ This project is a continuation of the SQL Data Warehouse project:
 
 ## Insights
 Read more about the insights and analysis in this article on Medium:  
-[Your Medium Article Title](YOUR_MEDIUM_LINK_HERE)
+[FROM DATA TO INSIGHT: BIKER’S CASE STUDY](https://medium.com/@sujithmp004/from-data-to-insight-bikers-case-study-0324162f144f)
