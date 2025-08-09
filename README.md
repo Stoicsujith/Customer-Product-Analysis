@@ -15,3 +15,15 @@ This project represents the **visualization layer** of the Data Warehouse initia
 - Power BI for dashboard creation and data visualization
 
 This project complements the data warehouse by providing actionable business intelligence through intuitive, real-time dashboards.
+
+---
+
+## Continuation
+This project is a continuation of the SQL Data Warehouse project:  
+[SQL Data Pipeline & Analytics](https://github.com/Stoicsujith/SQL-data-pipeline-analytics)
+
+---
+
+## Insights
+Read more about the insights and analysis in this article on Medium:  
+[Your Medium Article Title](YOUR_MEDIUM_LINK_HERE)
